@@ -1,1 +1,2 @@
 # landing-page
+This is a practice project. I am going to create a landing page using HTML and CSS, with flexbox for layout and positioning. The layout is based on an image reference for practice purposes.
